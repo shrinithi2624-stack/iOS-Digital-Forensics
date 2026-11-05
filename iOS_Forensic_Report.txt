@@ -1,0 +1,22 @@
+iOS DIGITAL FORENSIC REPORT
+========================================
+
+CONTACT RECORDS
+------------------------------
+ID: 1 | Name: Arun | Phone: 9876543210
+ID: 2 | Name: Priya | Phone: 9123456780
+ID: 3 | Name: Arun | Phone: 9876543210
+ID: 4 | Name: Priya | Phone: 9123456780
+
+MESSAGE RECORDS
+------------------------------
+ID: 1 | Sender: Arun | Message: Meeting at 10 AM | Timestamp: 2026-11-04 09:30:00
+ID: 2 | Sender: Priya | Message: Please call me | Timestamp: 2026-11-04 10:15:00
+ID: 3 | Sender: Arun | Message: Meeting at 10 AM | Timestamp: 2026-11-04 09:30:00
+ID: 4 | Sender: Priya | Message: Please call me | Timestamp: 2026-11-04 10:15:00
+
+FORENSIC SUMMARY
+Total Contacts: 4
+Total Messages: 4
+
+Analysis completed successfully.
